@@ -1,3 +1,5 @@
+"link para visualização: https://visualizacaodoensinosuperiorbrasileiro-6d6vmeshuy5ru9hfd3gmub.streamlit.app/"
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
